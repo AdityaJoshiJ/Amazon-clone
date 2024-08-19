@@ -64,7 +64,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 💬 Contact
 
-Aditya Joshi - [adityajoshijj@gmail.com](mailto:your-adityajoshijj@example.com)
+Aditya Joshi - [adityajoshijj@gmail.com](mailto:your-adityajoshijj@gmail.com)
 
 Project Link: [https://github.com/AdityaJoshiJ/Amazon-clone](https://github.com/AdityaJoshiJ/Amazon-clone)
 
